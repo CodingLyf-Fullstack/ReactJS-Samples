@@ -1,0 +1,16 @@
+.star-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.star {
+  display: block;
+}
+
+.star {
+  cursor: pointer;
+}
+
+.star .selected {
+  color: #f60010b6;
+}

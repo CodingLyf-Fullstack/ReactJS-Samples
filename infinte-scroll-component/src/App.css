@@ -1,0 +1,18 @@
+.list-container {
+  padding: 10px;
+  width: 250px;
+  height: 250px;
+  max-height: 250px;
+  overflow-y: scroll;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+}
+.list img {
+  height: 50px;
+  width: 50px;
+}
